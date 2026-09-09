@@ -1,0 +1,2 @@
+# CART470
+CART 470 Journal
