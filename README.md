@@ -28,3 +28,53 @@ We went over the website that Sabine provided for inspiration and discussed what
 We started the framework of living learning contract in the same Google Docs so that everyone in the team can have access to it.
 
 
+## Meeting with Gabriel Sept.21
+### notes taken during the meeting (shared with the team) 
+
+- for the sound class (max)
+- focusing more on sound design for specific design
+- cool set up (old orchestra of ~ 50 speakers) 
+- design some sort of projecting the sounds within the orchestra speakers and making sequences of sound
+- go into a certain venue, scan with the QR code and your phone becomes a speaker — you become another sensor
+- you’re in charge of specialization
+- Concept for the sound design + series of sounds around that concept
+- these sounds will be rendered into the phones (having the phones on the floor, for example)
+- how the sounds will be rendered? - sequence w over time
+- forest with cicada (example)
+- we have to provide the infrastructure 
+- procedural sound machine
+- sound A will sound from 0 - 2min
+- sound B will be from here to somewhere
+- sending sound for one orbit or another but do not necessarily have an actual form
+- for starter - pool of 25 (divided by 5) 
+
+- no max (full JavaScript) - focus on the sound more than the max
+- We’re the ones who are manipulating the code (?)
+- webpage loaded on audio assets
+- how are they making the sounds sync together (about the same time) 
+    - centralized application with server might be needed
+- computecanada (???) - canada wide interconnected series of computer cluster (is used by concordia)
+- phone is receiver (no interaction) - for the very first iteration 
+- for now it’s just a speaker
+- visual display (does not matter much)
+- visual elements (that’s fine)
+- hosted on a repo - different groups of sound class should be able to fork this and own their assets / sequence the sound
+- sequencing of the sound - what kind of structure (maybe could set up a template for json file?)
+- maybe astatic (?) 
+- web app 
+- chrome for default 
+- audio api - pretty standard amongst certain browsers
+- portable web app that can be loaded onto you phone
+- doesn’t work - web midi api
+- providing js versions of those apps and people can actually focus on actual sound design
+- more iteration 
+- start w same sound from computer and phone (loading the audio assets — web app)
+- activating them in synchronously
+- run like a clock (eamon - yt video)
+- modulos/random ??  
+- no need for perfection in syncing 
+- how are we going to instantiate web browser or different tabs of audio output > working with the machine in the room 
+    - loading the audio asset 
+    - sequencing part
+
+We will be discussing the plans for our project this Wednesday!
