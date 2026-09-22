@@ -1,2 +1,4 @@
-# CART470
-CART 470 Journal
+### CART470
+## Journal
+
+This is a document journal of CART 470 project
