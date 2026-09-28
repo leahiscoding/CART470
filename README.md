@@ -1,7 +1,7 @@
-### CART470
-## Journal
+# CART470
+## Journal + living learning contract
 
-This is a document journal of CART 470 project
+This is a document journal of CART 470 project, including all the direct links to the individual journals and the link for the contract
 
 Link for journals
 
