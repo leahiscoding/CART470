@@ -2,7 +2,7 @@
 
 ## **CART470 – Distributed Listening**
 
-### \< Leah Song, Jessica Chan, Sabrina Chan Fee, Eamon Foley, Victoria Hoang>\
+### \< Leah Song, Jessica Chan, Sabrina Chan Fee, Eamon Foley, Victoria Hoang>
 
 **Project Focus**  
 Build a distributed listening system using mobile phones and QR codes that can load a web app directly into an individual's phone browser.
@@ -41,7 +41,7 @@ Audiovisual installation, Web hosting, MaxAudio, JavaScript, Reactive UI/UX
 
 **Weekly Plan**
 
-| Week\# | Topic | Detail | Work Due |
+| Week\# | Topic | Detail | Work Due   |
 | :---- | :---- | :---- | :---- |
 | **Sep 23** | Define project | Define scope, way of getting audio, define main function | **Sep 30** |
 | **Sep 30** | Set up server and questions for Gabriel \+ Create rough UI wireframe | Write more questions to ask Gabriel in the Discord for the Friday meeting | **Oct 7** |
