@@ -2,7 +2,7 @@
 
 ## **CART470 – Distributed Listening**
 
-### \< Leah Song, Jessica Chan, Sabrina Chan Fee, Eamon Foley, Victoria Hoang \>
+### \< Leah Song, Jessica Chan, Sabrina Chan Fee, Eamon Foley, Victoria Hoang>\
 
 **Project Focus**  
 Build a distributed listening system using mobile phones and QR codes that can load a web app directly into an individual's phone browser.
