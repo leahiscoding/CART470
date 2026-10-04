@@ -1,4 +1,4 @@
-# Week 3
+# Journal-3
 ## Post Client Intro
 ### Discussion
 
