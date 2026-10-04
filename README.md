@@ -4,9 +4,9 @@ Project journals and living learning contract for CART 470.
 
 ## Journals
 
-- [Week 1](journals/week-1.md)
-- [Week 2](journals/week-2.md)
-- [Week 3](journals/week-3.md)
+- [Journal 1](journals/Journal-1.md)
+- [Journal 2](journals/Journal-2.md)
+- [Journal 3](journals/Journal-3.md)
 - [All journal entries](journals/)
 
 
