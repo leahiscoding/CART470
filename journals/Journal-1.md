@@ -1,4 +1,4 @@
-# Week 1
+# Journal 1
 ## Ideation Sept.16
 ### Questions regarding the project
 
