@@ -1,15 +1,28 @@
-# Week 3
-## Post Client Intro
-### Discussion
+# CART470
 
-I wasn't feeling to well this week, so I ended up not attending class. However, I was able to inform Sabine and my teammates. 
+Project journals and living learning contract for CART 470.
 
-After missing the class, I asked Sabrina (who is also working on UI) what we should work on. She told me that we should work on the JSON file and the wireframe for the app. 
+## Journals
 
-We hopped on a short call on the 3rd of October to discuss work distribution. Sabrina told me that she was working on the JSON converter format all day. 
+- [Week 1](journals/week-1.md)
+- [Week 2](journals/week-2.md)
+- [Week 3](journals/week-3.md)
+- [All journal entries](journals/)
 
-I then realized I misunderstood what she had told me previously and told her there's a faster and more accurate way to convert a JSON file from Google Sheets. I felt bad about Sabrina's work not being recognized, but she was okay with things being more efficient, which I really appreciated. (I'm not going to lie— I most likely would have been frustrated. I appreciate Sabrina's patience with me.)
+New entries belong in their own files inside `journals/`, so this index does not need to change every week.
 
-I also asked her for the parameters that we will use for JSON, and she told me it's undetermined yet, and we will have to talk about it next week. We came up with a few questions that we can ask Gabriel about, and then we made sure that we posted the tickets on Kanban.
+## Living learning contract
 
-After the short call, I started working on the prototype.
+[Read the contract](living-learning-contract.md).
+
+## Start a new journal
+
+From the project terminal, run:
+
+```sh
+bash scripts/new-journal.sh 4
+```
+
+Replace `4` with the week number. This creates a branch from the latest GitHub `main` and a separate journal file to write in.
+
+[How to save, push, and open a PR](WORKFLOW.md).
