@@ -1,5 +1,5 @@
 # Journal-1
-## Ideation Sept.16
+## Ideation
 ### Questions regarding the project
 
 For this week, we brainstormed questions about our future project. As we only had two examples and we are not familiar with his 346 class, we decided to come up with a couple of questions based on the given project.
