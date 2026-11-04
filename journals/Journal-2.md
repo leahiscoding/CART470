@@ -1,5 +1,5 @@
 # Journal-2
-## Client Introduction Meeting Sept.
+## Client Introduction Meeting
 ### Questions regarding the project
 
 This week, we discussed the notes I took during the meeting with Gabriel. Some parts were unclear, so during our team meeting, we decided to write down a couple of questions.
