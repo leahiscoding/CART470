@@ -1,5 +1,13 @@
-# Journal-4
+# Journal-6
 ## PROJECT MIDTERM
 ### Discussion
 
+When we first heard from Vi that Gabriel is coming to class, we were very excited to show him our progress. We were pretty proud of what we created, and we were happy that we can create a project that he could use it in class. The meeting started great, but then later, we realized there was a miscommunication. The entire time, we knew that Gabriel was working on the "back-up" plan, but the part that we didn't know was that the "back up" plan was what he intended to use in class, and we were making a second version of his project alongside with the backup project.
 
+Personally, I was very frustrated. I mainly worked on UI and planned to continue working on UI (and perhaps a little bit of front-end tasks as we planned to incorporate reactive design according to the audio), and I have been telling Gabriel that I have been designing all the user flow and figma chart. I only designed the UI (although Gabriel said it didn't really need to be pretty), so that it feels more presentable when it's being used in class. However, when I saw the work done by Claude, and how my design lacked components that his prototype had, I felt quite disappointed and even discouraged. During the first meeting, I asked Gabriel if it was possible to have all the written details of what he wanted, and he said he would like us to have room to be creative. I understood his intention, but it was really hurtful, as I have always tried my best to advocate for using AI supportively and sustainably in learning and education. For the first time, I empathized with artists who were upset with the AI. 
+
+After that meeting, my teammates and I talked about continuing our own version, as we can probably use it as a portfolio piece. I genuinely wished Gabriel could have shared his own version of the copy, as it was last worked on at the end of September, so that maybe I could contribute directly to the project. I didn't understand that what he meant by we should use AI was to use AI mainly in our workflow, not secondarily.
+
+Honestly, I'm very discouraged to do continue working on this project, but I'm planning to implement the reactive UI with the team, and maybe potentially add some component's from Gabriel's work and integrate it in our project.
+
+I was supposed to make the slide design, but as a lot of stuff happened this week, I wasn't able to implement the design until last minute. I'm glad how it turned out to be, but maybe next time I can incorporate more words and sentences directly to the slide. I use quite minimalistic approach when it comes to making slides, but next time I should consider accessibility and other teammates' preferences.
